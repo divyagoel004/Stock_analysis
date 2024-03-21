@@ -1,0 +1,2 @@
+In these code I have used rolling windows to find the cross over of the number of days given , then for buying signal we have rolling window from 50-500 and for selling signal window 20-200 and the buy postion or sell position of 10-20,5-10 respectively.
+In the graphical representation I have ploted the moving average of 500 days and 50 days along with the buying signal and selling signal respectively.
