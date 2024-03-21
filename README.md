@@ -1,1 +1,1 @@
-# Stock_analysis
+Project on stock analysis
